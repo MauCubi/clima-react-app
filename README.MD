@@ -1,6 +1,6 @@
 # Clima/Pronóstico React App
 
-App sencilla para la busqueda del clima actual y del pronostico de los siguientes días de una ubicacion elegida.
+App sencilla para la búsqueda del clima actual y del pronóstico de los siguientes días de una ubicación elegida.
 
 Es la primera App react que desarrollo con el objetivo de practicar como también para agregarla a mi portafolio.
 
@@ -12,9 +12,9 @@ Es la primera App react que desarrollo con el objetivo de practicar como tambié
 - axios
 - prop-types
 
-## Configuracion
+## Configuración
 
-Si queres bajar el proyecto tenes que editar el archivo .env.template con tus propias api keys de openweather y mapbox respectivamente y luego cambiarle el nombre de .env.template a simplemente .env.
+Si querés bajar el proyecto tenés que editar el archivo .env.template con tus propias api keys de openweather y mapbox respectivamente y luego cambiarle el nombre de .env.template a simplemente .env.
 
 Tampoco te olvides de instalar las dependencias: yarn install (en terminal) 
 
